@@ -7,6 +7,8 @@ Orange pi zero python gpio lib based on olimex pyA20 https://pypi.python.org/pyp
       
 ![Preview](https://raw.githubusercontent.com/Sputkin/OrangePi0-PyH2-gpiolib/master/img/pinout.jpg)
 
+Thanks 0SHLAB.com for the photo
+
 
 ## installation
 	
